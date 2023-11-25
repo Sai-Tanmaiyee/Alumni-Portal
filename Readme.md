@@ -1,6 +1,6 @@
-# Alumni Portal - React and Firebase Full Tutorial
+# Alumni Portal - React and Firebase
 
-# Features
+## Features
 1. Authentication
 2. Start a Post
 3. Update a Post
@@ -19,7 +19,7 @@ npm install
 npm install firebase
 to run: npm run dev
 
-# firebase setup
+## firebase setup
 set up the following in your firebase account:
 Authentication
 Firestore database
