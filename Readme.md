@@ -15,12 +15,12 @@
 
 
 ## Commands to setup and run
-npm install
-npm install firebase
+npm install 
+npm install firebase 
 to run: npm run dev
 
 ## firebase setup
 set up the following in your firebase account:
-Authentication
-Firestore database
-Storage
+Authentication 
+Firestore database 
+Storage    
