@@ -1,7 +1,6 @@
+# Alumni Portal - React and Firebase Full Tutorial
+
 # Features
-
-Link: https://linkedin-clone-a077e.web.app
-
 1. Authentication
 2. Start a Post
 3. Update a Post
@@ -14,17 +13,14 @@ Link: https://linkedin-clone-a077e.web.app
 10. Add Post Images
 11. Search For Other Users
 
-If you want to learn how to build this, follow my tutorial here:
 
-Alumni Portal - React and Firebase Full Tutorial.
+## Commands to setup and run
+npm install
+npm install firebase
+to run: npm run dev
 
-Check the playlist for the videos: https://lnkd.in/d6JvCm-t
-
-
-
-
-## ran the npm install firebase
-## Added the auth config  from forebase proatl
-## Enabled authentication from the portal
-## command to run locall npm run dev
-
+# firebase setup
+set up the following in your firebase account:
+Authentication
+Firestore database
+Storage
